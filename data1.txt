@@ -1,0 +1,5 @@
+this is my first data
+resolving merge conflict
+testing merge conflicts
+i am resolving merge conflict
+
